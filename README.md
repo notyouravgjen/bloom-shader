@@ -20,6 +20,6 @@ Thanks to the rastertek tutorial for how to write a bloom shader: http://www.ras
 
 Thanks to my project partners Chris Cordi, Brockton Roth, Evan Gifford, and Evan Miller for working on the game with me.
 
-![alt text](https://github.com/notyouravgjen/bloom-shader/blob/master/image1.jpg?raw=true)
-![alt text](https://github.com/notyouravgjen/bloom-shader/blob/master/image2.jpg?raw=true)
+![screenshot1](https://github.com/notyouravgjen/bloom-shader/blob/master/image1.png?raw=true)
+![screenshot2](https://github.com/notyouravgjen/bloom-shader/blob/master/image2.png?raw=true)
 
