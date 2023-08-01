@@ -12,11 +12,11 @@ float4 main(float4 color : COLOR0, float2 texCoord : TEXCOORD0) : SV_Target0
 	// To create the blurred pixel we first set the color to black and then we add the center pixel and the eight neighbors to the final color based on the weight of each
 	
 	// Create the weights that each neighbor pixel will contribute to the blur.
-	float weight0 = 1.0f;//1.0f;
-	float weight1 = 0.95f;//0.9f;
-	float weight2 = 0.9f;//0.55f;
-	float weight3 = 0.85f;//0.18f;
-	float weight4 = 0.8f;//0.1f;
+	float weight0 = 1.0f;
+	float weight1 = 0.95f;
+	float weight2 = 0.9f;
+	float weight3 = 0.85f;
+	float weight4 = 0.8f;
 	float weight5 = 0.7f;
 	float weight6 = 0.5f;
 	float weight7 = 0.3f;

@@ -81,7 +81,7 @@ float4 main(float4 color : COLOR0, float2 texCoord : TEXCOORD0) : SV_Target0
 	finalColor += Texture.Sample(TextureSampler, tc17) * weight8;
 
 
-	// todo: additive blending
+	// TODO: additive blending
 
 	finalColor.a = 1.0f;
 	return finalColor;
